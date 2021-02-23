@@ -64,7 +64,7 @@ The `dev` branch is automatically deployed to the Dev Hypercube cluster. Please 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 
-# Download and install Redis
+## Download and install Redis
 You can download and install redis from the following link
 [https://github.com/tporadowski/redis/releases/tag/v5.0.10](https://github.com/tporadowski/redis/releases/tag/v5.0.10)
 
