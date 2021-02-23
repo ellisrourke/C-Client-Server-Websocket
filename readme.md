@@ -102,7 +102,3 @@ For example, Here is an example run.bat
     start cmd /c celery -A hypercube worker -l info -P solo -E
     start cmd /c celery -A hypercube beat -l info --scheduler celery.beat.PersistentScheduler --pidfile=
     python manage.py runserver 0.0.0.0:8000
-
-
-
-
